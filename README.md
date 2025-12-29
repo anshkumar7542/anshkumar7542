@@ -62,6 +62,11 @@ I enjoy working on **backend logic, REST APIs, databases, and system-level think
 
 ---
 
+## 🔥 Contribution Activity
+![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=anshkumar7542&bg_color=0d1117&color=00ffcc&line=ff9800&point=ffffff)
+
+---
+
 ## 🚀 Featured Projects
 - 🏥 **Integrated Healthcare Management System** – Role-based dashboards, secure APIs, MongoDB  
 - 🎓 **Online Course Enrollment Platform** – Clean UI with backend integration  
