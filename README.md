@@ -11,14 +11,23 @@
 <p align="center">
   🚀 Building real-world web applications <br/>
   🎓 College Student | Learning by doing <br/>
-  💡 Backend-focused • APIs • System Thinking
+  💡 Backend-focused • APIs • Scalable Systems
+</p>
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/ansh-kumar111">
+    <img src="https://img.shields.io/badge/LinkedIn-0d1117?style=for-the-badge&logo=linkedin&logoColor=0A66C2"/>
+  </a>
+  <a href="https://github.com/anshkumar7542">
+    <img src="https://img.shields.io/badge/GitHub-0d1117?style=for-the-badge&logo=github"/>
+  </a>
 </p>
 
 ---
 
 ## 🧑‍💻 About Me
 I am a passionate developer focused on building **scalable, secure, and user-centric web applications**.  
-I enjoy working on **backend logic, REST APIs, and real-world problem solving**, while continuously improving my full-stack skills.
+I enjoy working on **backend logic, REST APIs, databases, and system-level thinking**, while continuously improving my full-stack skills.
 
 ---
 
@@ -54,16 +63,15 @@ I enjoy working on **backend logic, REST APIs, and real-world problem solving**,
 ---
 
 ## 🔥 Contribution Activity
-
 ![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=anshkumar7542&bg_color=0d1117&color=00ffcc&line=ff9800&point=ffffff)
 
 ---
 
 ## 🚀 Featured Projects
-- 🏥 **Integrated Healthcare Management System** – Role-based dashboards & secure APIs  
-- 🎓 **Online Course Enrollment Platform** – Full-stack PHP & MySQL system  
-- 🦁 **Virtual Zoo Website** – Interactive UI with Swiper & animations  
-- 📸 **Instagram Clone** – Advanced UI & frontend logic  
+- 🏥 **Integrated Healthcare Management System** – Role-based dashboards, secure APIs, MongoDB  
+- 🎓 **Online Course Enrollment Platform** – Clean UI with backend integration  
+- 🦁 **Virtual Zoo Website** – Interactive UI, Swiper, animations  
+- 📸 **Instagram Clone** – Advanced frontend UI & logic  
 
 ---
 
@@ -82,8 +90,8 @@ I enjoy working on **backend logic, REST APIs, and real-world problem solving**,
 ---
 
 ## 📫 Connect With Me
-- GitHub: https://github.com/anshkumar7542  
-- LinkedIn: *(Add when ready)*  
+- 🔗 LinkedIn: https://www.linkedin.com/in/ansh-kumar111  
+- 💻 GitHub: https://github.com/anshkumar7542  
 
 ---
 
