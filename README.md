@@ -3,16 +3,23 @@
 <!-- ===================== -->
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=220&color=0d1117&text=Ansh%20Kumar&fontSize=45&fontColor=00ffcc&animation=fadeIn" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=220&color=0d1117&section=header" />
 </p>
 
-
-<h3 align="center">Aspiring Full-Stack Developer | MERN Stack</h3>
+<!-- ===================== -->
+<!--   TYPING ANIMATION    -->
+<!-- ===================== -->
 
 <p align="center">
-  🚀 Building real-world web applications <br/>
-  🎓 College Student | Learning by doing <br/>
-  💡 Backend-focused • APIs • Scalable Systems
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&duration=3000&pause=800&color=00FFCC&center=true&vCenter=true&width=700&lines=Hi%2C+I'm+Ansh+Kumar;Aspiring+Full-Stack+Developer;MERN+Stack+Developer;Backend+Focused+Engineer" />
+</p>
+
+<h3 align="center">🚀 Building scalable web applications | MERN Stack</h3>
+
+<p align="center">
+  🎓 College Student &nbsp;•&nbsp;
+  💡 Backend, APIs & Databases &nbsp;•&nbsp;
+  ⚙️ System Thinking
 </p>
 
 <p align="center">
@@ -27,8 +34,10 @@
 ---
 
 ## 🧑‍💻 About Me
-I am a passionate developer focused on building **scalable, secure, and user-centric web applications**.  
-I enjoy working on **backend logic, REST APIs, databases, and system-level thinking**, while continuously improving my full-stack skills.
+I am a passionate and disciplined developer focused on building  
+**secure, scalable, and real-world web applications**.
+
+I enjoy working with **backend logic, REST APIs, databases, and clean architecture**, while continuously improving my full-stack skills.
 
 ---
 
@@ -64,15 +73,16 @@ I enjoy working on **backend logic, REST APIs, databases, and system-level think
 ---
 
 ## 🔥 Contribution Activity
+
 ![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=anshkumar7542&bg_color=0d1117&color=00ffcc&line=ff9800&point=ffffff)
 
 ---
 
 ## 🚀 Featured Projects
-- 🏥 **Integrated Healthcare Management System** – Role-based dashboards, secure APIs, MongoDB  
-- 🎓 **Online Course Enrollment Platform** – Clean UI with backend integration  
-- 🦁 **Virtual Zoo Website** – Interactive UI, Swiper, animations  
-- 📸 **Instagram Clone** – Advanced frontend UI & logic  
+- 🏥 **Integrated Healthcare Management System** – Role-based dashboards, secure APIs  
+- 🎓 **Online Course Enrollment Platform** – Full-stack backend integration  
+- 🦁 **Virtual Zoo Website** – Interactive UI, Swiper & animations  
+- 📸 **Instagram Clone** – Advanced UI & frontend logic  
 
 ---
 
@@ -97,5 +107,5 @@ I enjoy working on **backend logic, REST APIs, databases, and system-level think
 ---
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=0d1117&height=60&section=footer"/>
+  <img src="https://capsule-render.vercel.app/api?type=rect&height=60&color=0d1117&section=footer"/>
 </p>
