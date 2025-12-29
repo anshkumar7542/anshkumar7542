@@ -3,8 +3,9 @@
 <!-- ===================== -->
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0d1117&height=220&section=header&text=Ansh%20Kumar&fontSize=45&fontColor=00ffcc&animation=fadeIn" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=220&color=0d1117&text=Ansh%20Kumar&fontSize=45&fontColor=00ffcc&animation=fadeIn" />
 </p>
+
 
 <h3 align="center">Aspiring Full-Stack Developer | MERN Stack</h3>
 
