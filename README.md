@@ -116,14 +116,16 @@ I am a **passionate Full-Stack Developer** focused on building
 <table>
 <tr>
 <td width="50%">
-<h3 align="center">🏥 Healthcare Management System</h3>
+  <h3 align="centre">🏥 Medicare</h3>
+<h4 align="center">Healthcare Management System</h4>
 <p align="center">
 Role-based dashboards • Secure APIs • MongoDB
 </p>
 </td>
 
 <td width="50%">
-<h3 align="center">📸 Instagram Clone</h3>
+<h3 align="center">📸 ReelLight</h3>
+<h3 align="center">Movie Booking Platform</h3>
 <p align="center">
 Advanced UI • Responsive Design • Frontend Logic
 </p>
